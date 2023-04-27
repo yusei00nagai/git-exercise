@@ -3,3 +3,5 @@ git-exercise
 hello github
 
 add develop
+
+add main push,pullテスト
